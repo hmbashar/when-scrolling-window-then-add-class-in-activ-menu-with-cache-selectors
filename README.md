@@ -1,4 +1,4 @@
-# when scrolling window then add class in activ menu with cache selectors
+# when scrolling window then add class in active menu with cache selectors
 ```
 
 // scroll menu hover effect 
